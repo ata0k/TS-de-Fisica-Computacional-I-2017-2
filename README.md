@@ -6,4 +6,4 @@ El horario del curso quedó:
 
 **Viernes de 11 a 14h.** La primera hora y media serán las asesorías y la segunda hora y media será el seminario. 
 
-Próximamente anunciaré el salón de clases. 
+Lugar: Aula 1 de Computación, departamento de física, segundo piso. 
