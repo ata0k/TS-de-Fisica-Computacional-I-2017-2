@@ -1,3 +1,5 @@
+Primera calificación: 10
+
 # Preguntas a responderse para la segunda presentación: 
 
 En las preguntas enseguida, no se considera que los discos roten. Es decir, se puede omitir la conservación de momento angular. Basta con que haya conservación de momento lineal y de energía.
