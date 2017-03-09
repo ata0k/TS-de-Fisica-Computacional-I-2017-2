@@ -7,3 +7,5 @@ El horario del curso quedó:
 **Viernes de 11 a 14h.** La primera hora y media serán las asesorías y la segunda hora y media será el seminario. 
 
 Lugar: Aula 1 de Computación, departamento de física, segundo piso. 
+
+# He estado subiendo preguntas sobre las pláticas que han dado. Revísenlas!!!
