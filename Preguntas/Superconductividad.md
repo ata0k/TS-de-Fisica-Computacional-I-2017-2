@@ -1,3 +1,5 @@
+Calificación primera exposición: 10
+
 # Preguntas Teóricas: 
 
 1. ¿Por qué el campo magnético no puede penetrar los superconductores?  (explicar el efecto Meissner) 
