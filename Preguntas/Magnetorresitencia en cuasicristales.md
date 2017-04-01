@@ -16,7 +16,7 @@ Preguntas de la teoría:
 
 Segunda presentación: 10
 
-** Preguntas para la tercera exposición**: 
+**Preguntas para la tercera exposición** : 
 
 ## Preguntas de programación: 
 
